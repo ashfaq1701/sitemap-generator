@@ -1,6 +1,6 @@
 #Sitemap Generator
 
-This package is a sitemap generator which generates XML sitemap for any given website dynamically. It generates sitemap by scraping links from webpages recursively. But I tried to make it efficient by reducing the number of loops in least possible value.
+This package is a sitemap generator which generates XML sitemap for any given website dynamically. It generates sitemap by scraping all links from webpages recursively. But I tried to make it efficient by reducing the number of loops in least possible value.
 
 
 #Installation
