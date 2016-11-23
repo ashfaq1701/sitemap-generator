@@ -1,11 +1,11 @@
 <?php 
 
-namespace Ashfaq1701/SitemapGenerator;
+namespace Ashfaq1701\SitemapGenerator;
 
 use DOMDocument;
 use SimpleXMLElement;
 
-class Sitemap
+class SitemapGenerator
 {
 	public $url;
 	public $basepath;
